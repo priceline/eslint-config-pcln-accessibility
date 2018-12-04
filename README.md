@@ -1,6 +1,7 @@
 # pcln-eslint-config-accessibility
 
 [![npm version][npm version]][npm version]
+
 [npm version]: https://img.shields.io/npm/v/pcln-eslint-config-accessibility.svg?style=flat-square
 
 Sharable eslint accessibility rules by priceline
@@ -32,6 +33,7 @@ The following rules from the eslint-plugin-jsx-a11y plugin are activated with wa
 - [aria-proptypes](https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/aria-proptypes.md)
 - [aria-role](https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/aria-role.md)
 - [aria-unsupported-elements](https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/aria-unsupported-elements.md)
+- [click-events-have-key-events](https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/click-events-have-key-events.md)
 - [heading-has-content](https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/heading-has-content.md)
 - [lable-has-for](https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/v5.1.1/docs/rules/label-has-for.md)
 - [img-redundant-alt](https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/img-redundant-alt.md)
