@@ -1,4 +1,8 @@
 # pcln-eslint-config-accessibility
+
+[![npm version][npm version]][npm version]
+[npm version]: https://img.shields.io/npm/v/pcln-eslint-config-accessibility.svg?style=flat-square
+
 Sharable eslint accessibility rules by priceline
 
 ## Usage
