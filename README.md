@@ -1,4 +1,4 @@
-# pcln-eslint-config-accessibility
+# eslint-config-pcln-accessibility
 
 [![npm version][npm version]][npm version]
 
@@ -11,13 +11,13 @@ If you want to use this ESLint configuration in a project, you can install it wi
 
 First, install this package, ESLint and the necessary plugins.
 ```
-npm install --save-dev pcln-eslint-config-accessibility eslint-plugin-jsx-a11y@6.x
+npm install --save-dev eslint-config-pcln-accessibility eslint-plugin-jsx-a11y@6.x
 ```
 
 Then create a file named .eslintrc with following contents in the root folder of your project (or add it to your existing .eslintrc file):
 ```
 {
-  "extends": "pcln-eslint-config-accessibility"
+  "extends": "pcln-accessibility"
 }
 ```
 That's it! You will now see warnings in your editor if you're violating accessibility eslint rules

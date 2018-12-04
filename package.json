@@ -1,11 +1,11 @@
 {
-  "name": "pcln-eslint-config-accessibility",
-  "version": "1.0.1",
+  "name": "eslint-config-pcln-accessibility",
+  "version": "1.0.0",
   "description": "Sharable ESLint configuration for accessiblilty used at priceline",
   "author": "Maedeh Safari",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pricelinelabs/pcln-eslint-config-accessibility.git"
+    "url": "git+https://github.com/pricelinelabs/eslint-config-pcln-accessibility.git"
   },
   "license": "MIT",
   "files": [
